@@ -1,6 +1,6 @@
 '''
 A simple analog clock made of ShapeNodes.
-a-hase test test test
+a-hase test test test test test test test
 '''
 
 from scene import *
